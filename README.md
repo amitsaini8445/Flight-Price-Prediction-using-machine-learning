@@ -25,7 +25,7 @@ numerical features - 1
 Problem :
 Predict the flight price based on the given feature
 
-Pipeline to solve this problem 
+# Pipeline to solve this problem 
 1. import the library
 2. Load the data
 3. Data analysis
